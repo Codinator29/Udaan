@@ -1,0 +1,12 @@
+/Users/harshalchepey/Projects/Udaan/Udaan/obj/Debug/netcoreapp3.1/Udaan.csproj.AssemblyReference.cache
+/Users/harshalchepey/Projects/Udaan/Udaan/obj/Debug/netcoreapp3.1/Udaan.AssemblyInfoInputs.cache
+/Users/harshalchepey/Projects/Udaan/Udaan/obj/Debug/netcoreapp3.1/Udaan.AssemblyInfo.cs
+/Users/harshalchepey/Projects/Udaan/Udaan/obj/Debug/netcoreapp3.1/Udaan.csproj.CoreCompileInputs.cache
+/Users/harshalchepey/Projects/Udaan/Udaan/bin/Debug/netcoreapp3.1/Udaan.deps.json
+/Users/harshalchepey/Projects/Udaan/Udaan/bin/Debug/netcoreapp3.1/Udaan.runtimeconfig.json
+/Users/harshalchepey/Projects/Udaan/Udaan/bin/Debug/netcoreapp3.1/Udaan.runtimeconfig.dev.json
+/Users/harshalchepey/Projects/Udaan/Udaan/bin/Debug/netcoreapp3.1/Udaan.dll
+/Users/harshalchepey/Projects/Udaan/Udaan/bin/Debug/netcoreapp3.1/Udaan.pdb
+/Users/harshalchepey/Projects/Udaan/Udaan/obj/Debug/netcoreapp3.1/Udaan.dll
+/Users/harshalchepey/Projects/Udaan/Udaan/obj/Debug/netcoreapp3.1/Udaan.pdb
+/Users/harshalchepey/Projects/Udaan/Udaan/obj/Debug/netcoreapp3.1/Udaan.genruntimeconfig.cache
